@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool --reset -f
+
+exit 0
